@@ -21,7 +21,7 @@ class Blockchain{
     }
 
     createGenesisBlock(){
-        return new Block (0,"01/01/2017","Genesis Block","0")
+        return new Block (0,"01/11/2018","Genesis Block","0")
     }
 
     getLatestBlock(){
